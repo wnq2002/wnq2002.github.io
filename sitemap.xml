@@ -2,7 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.xiaoming.io/undefined/</loc>
+    <loc>https://wnq2002.github.io/posts/%E8%AE%B0%E5%BD%95%E4%BB%8E0%E8%B7%91%E9%80%9A%E5%B0%8F%E7%BA%A2%E4%B9%A6%E8%87%AA%E5%8A%A8%E5%8F%91%E5%B8%83%E6%B5%81%E7%A8%8B/</loc>
+    
+    <lastmod>2026-03-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wnq2002.github.io/tags/</loc>
     
     <lastmod>2026-03-13</lastmod>
     
@@ -11,7 +20,7 @@
   </url>
   
   <url>
-    <loc>https://www.xiaoming.io/tags/</loc>
+    <loc>https://wnq2002.github.io/categories/</loc>
     
     <lastmod>2026-03-13</lastmod>
     
@@ -20,16 +29,7 @@
   </url>
   
   <url>
-    <loc>https://www.xiaoming.io/categories/</loc>
-    
-    <lastmod>2026-03-13</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.xiaoming.io/about/</loc>
+    <loc>https://wnq2002.github.io/about/</loc>
     
     <lastmod>2026-03-13</lastmod>
     
@@ -39,16 +39,23 @@
   
 
   <url>
-    <loc>https://www.xiaoming.io/</loc>
-    <lastmod>2026-03-16</lastmod>
+    <loc>https://wnq2002.github.io/</loc>
+    <lastmod>2026-03-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>https://www.xiaoming.io/tags/%E6%B5%8B%E8%AF%95/</loc>
-    <lastmod>2026-03-16</lastmod>
+    <loc>https://wnq2002.github.io/tags/MCP/</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://wnq2002.github.io/tags/SKILL/</loc>
+    <lastmod>2026-03-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -56,8 +63,8 @@
 
   
   <url>
-    <loc>https://www.xiaoming.io/categories/%E5%8D%9A%E5%AE%A2/</loc>
-    <lastmod>2026-03-16</lastmod>
+    <loc>https://wnq2002.github.io/categories/%E6%8A%80%E6%9C%AF/</loc>
+    <lastmod>2026-03-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
